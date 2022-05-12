@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://raw.githubusercontent.com/这里更换为你的 GitHub ID/这里更换为你的 GitHub ID/main/assets/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/memoryFade/memoryFade/main/assets/github-contribution-grid-snake.svg)
