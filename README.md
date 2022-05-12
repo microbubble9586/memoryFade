@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://raw.githubusercontent.com/memoryFade/memoryFade/main/assets/github-contribution-grid-snake.svg)
+![snack](https://github.com/memoryFade/memoryFade/blob/output/github-contribution-grid-snake.svg)
